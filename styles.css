@@ -1,7 +1,7 @@
 /* Donga Multi‑Sector Solutions — Pro Styles */
 :root{
-  --bg:#0b0e14; --bg-alt:#111626; --card:#171c2b; --text:#e6e8ef; --muted:#b6bed2;
-  --brand:#4da3ff; --brand-2:#59d3a6; --border:#252c3f; --shadow:rgba(0,0,0,0.35);
+   --bg:#f7f9ff; --bg-alt:#eef3ff; --card:#ffffff; --text:#0c1530; --muted:#344565;
+  --brand:#2563eb; --brand-2:#10b981; --border:#d7e0f5; --shadow:rgba(0,0,0,0.08);
 }
 /* Light theme */
 [data-theme="light"]{
